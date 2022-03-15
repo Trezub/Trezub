@@ -1,15 +1,15 @@
-# Trezub
-### Fullstack developer
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Techs
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-283140?style=for-the-badge&logo=prisma&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### About me
-Hey! My name is Adriano. I'm Brazilian, 22 years, messing with computers since i was 7. Self learner and love to find out how things work.
+Hey! My name is Adriano. I'm Brazilian, 23 years, messing with computers since i was 7. Self learner and love to find out how things work.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trezub&layout=compact&theme=react&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projects
-- Currently working on [NewOnStream](https://github.com/NewOnStream): NoS, for short, is a small community focused to help new Twitch streamers to achieve their initial goals on the platform.
-- Busology: Realtime location, schedules and technical specs of the public transportation system from the city of Curitiba - PR.
+- Currently working as backend developer at [BLD Logistics](https://bldlogistica.com.br)
+- [NewOnStream](https://github.com/NewOnStream): NoS, for short, is a small community focused to help new Twitch streamers to achieve their initial goals on the platform.
+- Busology: Realtime location, schedules and technical specs of the public transportation system from the city of Curitiba - PR (Work in progress).
 - Roleplay server for the game Live For Speed. More on that [here](https://github.com/Trezub/insim-client-node)
 
 #### Reach me in
