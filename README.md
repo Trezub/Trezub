@@ -8,8 +8,8 @@ Hey! My name is Adriano. I'm Brazilian, 23 years, messing with computers since i
 
 #### Projects
 - Currently working as backend developer at [BLD Logistics](https://bldlogistica.com.br)
-- [NewOnStream](https://github.com/NewOnStream): NoS, for short, is a small community focused to help new Twitch streamers to achieve their initial goals on the platform.
 - Busology: Realtime location, schedules and technical specs of the public transportation system from the city of Curitiba - PR (Work in progress).
+- [NewOnStream](https://github.com/NewOnStream): NoS, for short, is a small community focused to help new Twitch streamers to achieve their initial goals on the platform.
 - Roleplay server for the game Live For Speed. More on that [here](https://github.com/Trezub/insim-client-node)
 
 #### Reach me in
